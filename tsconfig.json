@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    // typescript is only used for typechecking.
+    // we use vanilla JS with jsdoc-style annotations.
+    "target": "ES6",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "noEmit": true,
+    "allowJs": true,
+    "checkJs": true,
+    // Make the checker much more strict without being too limiting
+    "strict": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "noImplicitAny": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "allowUnreachableCode": false,
+  },
+  "exclude": [
+    "doc/**"
+  ]
+}
