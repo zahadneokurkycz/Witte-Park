@@ -7,9 +7,9 @@
 
 # Server
 What hosting do you prefer (All of these are free)
-[Repl.it](#Repl.it "Repl.it")
-[Github](#Github "Github")
-[Your PC (Localhost)](#Your PC "Your PC (Localhost)")
+[Repl.it](#replit "Repl.it")
+[Github](#github "Github")
+[Your PC (Localhost)](#your-pc "Your PC (Localhost)")
 
 ### Repl.it
 ### Github
