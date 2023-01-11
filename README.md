@@ -5,11 +5,6 @@
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
 
 
-**Table of Contents**
-
-[TOCM]
-
-
 # Server
 What hosting do you prefer (All of these are free)
 [Repl.it](#Repl.it "Repl.it")
