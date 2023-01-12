@@ -1,0 +1,21 @@
+@echo off
+title Server Opened. .  .
+
+echo Start server
+echo.
+echo.
+echo.
+echo You need node.js for this.
+echo If you have it, an npm pong notification will appear here.
+echo.
+npm ping
+echo.
+echo If no notification appears, you can download it here:
+echo https://nodejs.org/en/download/
+echo.
+echo If you want to stop server, press CTRL + C
+echo type Y and press ENTER
+echo.
+echo Press any key to start server
+pause > nul
+npm start
