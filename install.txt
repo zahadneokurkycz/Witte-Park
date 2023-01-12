@@ -12,6 +12,7 @@ npm ping
 echo.
 echo If no notification appears, you can download it here:
 echo https://nodejs.org/en/download/
+echo.
 echo Press any key to install
 pause > nul
 npm install
