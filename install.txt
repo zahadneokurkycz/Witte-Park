@@ -1,6 +1,10 @@
 @echo off
 title Installing. .  .
 
+echo Install
+echo.
+echo.
+echo.
 echo You need node.js for this.
 echo If you have it, an npm pong notification will appear here.
 echo.
