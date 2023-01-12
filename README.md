@@ -6,15 +6,11 @@
 
 
 # Server
-What hosting do you prefer (All of these are free)
+<!---What hosting do you prefer (All of these are free)
 
-[Repl.it](#replit "Repl.it")
+[Your PC (Localhost)](#your-pc "Your PC (Localhost)") --->
 
-[Github](#github "Github")
-
-[Your PC (Localhost)](#your-pc "Your PC (Localhost)")
-
-### Repl.it
+<!--- ### Repl.it
 ##### 1. Step - Login
 Go to **[Replit](https://replit.com/ "Replit")**
 
@@ -37,8 +33,8 @@ Type this command: `npm start`
 After a while, the IP address should be displayed
 ##### Done
 If you want to restart the server at any time, repeat step three
-### Github
-### Your PC
+### Github --->
+### Localhost
 
 
 # End
