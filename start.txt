@@ -6,6 +6,9 @@ echo.
 echo.
 echo.
 echo You need node.js for this.
+echo If you have it, an node.js open terminal and send command:.
+echo npm ping
+echo.
 echo A notification must appear. For showing the notification
 echo visit this link: https://github.com/zahadneokurkycz/Witte-Park/blob/master/npm.jpg
 echo.
