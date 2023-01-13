@@ -6,9 +6,10 @@ echo.
 echo.
 echo.
 echo You need node.js for this.
-echo If you have it, an npm pong notification will appear here.
+echo If you have it, an node.js open terminal and send command:.
+echo npm ping
 echo.
-npm ping
+echo 
 echo.
 echo If no notification appears, you can download it here:
 echo https://nodejs.org/en/download/
