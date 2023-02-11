@@ -1,7 +1,9 @@
 # Witte Park
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
 ![Downloads](https://img.shields.io/github/downloads/zahadneokurkycz/Witte-Park/total?color=dark-green&style=for-the-badge)
+!Issues](https://img.shields.io/github/issues-raw/zahadneokurkycz/Witte-Park?style=for-the-badge)
 
 
 # Server
