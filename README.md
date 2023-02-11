@@ -2,10 +2,10 @@
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
-![Downloads](https://img.shields.io/github/downloads/zahadneokurkycz/Witte-Park/total?color=dark-green&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues-raw/zahadneokurkycz/Witte-Park?style=for-the-badge)
-![License](https://img.shields.io/github/license/zahadneokurkycz/Witte-Park?color=purple&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/zahadneokurkycz/Witte-Park?color=yellow&style=for-the-badge)
+[![Downloads](https://img.shields.io/github/downloads/zahadneokurkycz/Witte-Park/total?color=dark-green&style=for-the-badge)](https://github.com/zahadneokurkycz/Witte-Park/releases/latest "Download")
+[![Issues](https://img.shields.io/github/issues-raw/zahadneokurkycz/Witte-Park?style=for-the-badge)](https://github.com/zahadneokurkycz/Witte-Park/issues "Issues")[
+[![License](https://img.shields.io/github/license/zahadneokurkycz/Witte-Park?color=purple&style=for-the-badge)](https://github.com/zahadneokurkycz/Witte-Park/blob/master/LICENSE "License")
+[![Stars](https://img.shields.io/github/stars/zahadneokurkycz/Witte-Park?color=yellow&style=for-the-badge)](https://github.com/zahadneokurkycz/Witte-Park/stargazers "Stars")
 
 
 # Server
