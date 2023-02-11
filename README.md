@@ -2,7 +2,7 @@
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
+![](https://img.shields.io/github/stars/zahadneokurkycz/Witte-Park.md.svg) ![](https://img.shields.io/github/release/zahadneokurkycz/Witte-Park.md.svg) ![](https://img.shields.io/github/issues/zahadneokurkycz/Witte-Park.md.svg)
 
 
 # Server
